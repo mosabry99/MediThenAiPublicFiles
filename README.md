@@ -1,1 +1,0 @@
-# MediThen Ai
