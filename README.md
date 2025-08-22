@@ -1,1 +1,1 @@
-# MediThenAiPublicFiles
+# MediThen Ai
